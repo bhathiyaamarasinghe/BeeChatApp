@@ -39,13 +39,13 @@ Admin should:
 
 *To make changes in database use following commands
 
-python manage.py makemigrations
+       python manage.py makemigrations
 
-python manage.py migrate
+       python manage.py migrate
 
 *To createsuperuser
 
-python manage.py createsuperuser
+       python manage.py createsuperuser
 
 ## Testing the Application
 * To run the tests for the class files:
